@@ -1,3 +1,2 @@
 - Hi, I’m @Bionic-Squash
 - I mostly just browse here just for fun
-- I’m currently learning python
